@@ -5,7 +5,7 @@ description: "Where did I come from?"
 header-img: "img/home-bg.jpg"
 ---
 
-Justin Priest is a fisheries graduate student, interested in modeling ecosystem dynamics. 	 class="img_headshot"  
+Justin Priest is a fisheries graduate student, interested in modeling ecosystem dynamics. 	 new test 
 
 <img class="w3-opacity-min w3-hover-opacity-off" src="img/logos/JTP_and_sockeye_lo.jpg" alt="Justin Priest with a Sockeye Salmon" style="width:100px;height:100px;" align="left"/>
  
