@@ -3,7 +3,7 @@ layout: project
 title: "Example Projects"
 description: "Examples of Projects over the years"
 header-img: "img/home-bg.jpg"
-category: project1
+category: research
 ---
 
 # First Project
