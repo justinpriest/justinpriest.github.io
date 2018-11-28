@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Example Projects"
+title: "Justin Priest  |  Example Projects"
 description: "Examples of Projects over the years"
 header-img: "img/home-bg.jpg"
 category: project1
