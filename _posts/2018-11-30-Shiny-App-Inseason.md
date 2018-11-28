@@ -2,7 +2,7 @@
 layout:     post
 title:      In-season Shiny apps 
 author:     Justin
-tags: 		  R, Shiny
+tags: 		  R Shiny
 subtitle:   A better way to monitor in-season catch data
 category:  research
 image: shinyappscreenshot_low.jpg
