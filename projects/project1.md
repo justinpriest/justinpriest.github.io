@@ -8,3 +8,4 @@ category: research
 
 # First Project
 This is an example of a project
+category research
