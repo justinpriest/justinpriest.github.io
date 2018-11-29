@@ -1,5 +1,6 @@
 ---
 layout: page
+exclude: false
 ---
 {% for post in paginator.posts %}
 <div class="post-preview">
