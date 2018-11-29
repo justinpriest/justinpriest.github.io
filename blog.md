@@ -1,6 +1,8 @@
 ---
 layout: page
-exclude: false
+title: "Blog"
+description: "Examples blog"
+header-img: "img/home-bg.jpg"
 ---
 {% for post in paginator.posts %}
 <div class="post-preview">
