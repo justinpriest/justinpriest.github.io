@@ -8,6 +8,8 @@ category:  blog
 ---
 <!-- Start Writing Below in Markdown -->
 
+This is a new blog post! Testing that this works. Hopefully it does
+Now we write new information here.
 # Table of Contents
 
 * TOC
